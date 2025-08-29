@@ -123,13 +123,6 @@ My goal is to build a system that combines **data-driven insights** with **scala
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p>
   <a href="https://linkedin.com/in/casterlyolivier"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
