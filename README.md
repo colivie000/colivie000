@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- HEADER -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hello+World%2C+I'm+Casterly;Full-Stack+Engineer;Fintech+Innovator;Problem+Solver" alt="Typing SVG">
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">  
+  Hello World, I'm Casterly
 </h1>
-<!--# 👋 Hello World, I'm Casterly -->
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Fintech+Enthusiast;Building+Cutting-Edge+Financial+Tools;Solving+Real-World+Problems+with+Code;Tech+%2B+Finance+%3D+Innovation">
+</h3>
+
+---
+
+<p align="center">💭 *"The best way to predict the future is to build it."* – Let's innovate together!</p>
 
 ---
 
@@ -30,7 +37,7 @@ My goal is to build a system that combines **data-driven insights** with **scala
 
 - 🔭 Currently building: **A freelance marketplace for real-life services**  
 - 🌱 Exploring **algorithmic trading**, **financial modeling**, and **risk management systems** 
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, React, Prisma, Next.js**  
+- 💬 Ask me about **fintech innovations**  
 - ⚡ Fun fact: I love **adventuring**, **sports**, **music** and **building cool side projects**  
 
 ---
@@ -82,10 +89,9 @@ My goal is to build a system that combines **data-driven insights** with **scala
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
 </p>
--->
 
 ---
-<!--
+
 ## 📂 Featured Projects  
 - **[Snaggle](https://github.com/your-username/snaggle)** – A freelance markeplae  
 - **[Sonder](https://github.com/your-username/sonder)** – A mental wellness app promoting mindfulness  
@@ -93,11 +99,33 @@ My goal is to build a system that combines **data-driven insights** with **scala
 - **[FinWise](https://github.com/colivie000/finwise)** – Finance dashboard with real-time analytics  
 
 ---
--->
 ## 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=colivie000&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=colivie000&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=colivie000&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+-->
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colivie000&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=colivie000&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=colivie00&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -107,4 +135,5 @@ My goal is to build a system that combines **data-driven insights** with **scala
   <a href="https://linkedin.com/in/casterlyolivier"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:casterlyo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
 
